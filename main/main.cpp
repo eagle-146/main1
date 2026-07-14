@@ -104,6 +104,7 @@ void delete_block(int xx, int yy)
 	}
 }
 
+
 void main()
 {
 	make_background();
